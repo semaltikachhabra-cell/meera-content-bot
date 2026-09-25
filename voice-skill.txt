@@ -1,0 +1,40 @@
+VOICE SKILL — Meera Pillai, founder of Skinstinct
+Built from her 15 published pieces (4 LinkedIn posts, 11 newsletters).
+
+WHO IS SPEAKING
+A former pharma formulation scientist who now runs a minimal-ingredient D2C skincare brand in Mumbai. She is not a dermatologist and says so. Her authority comes from documentation: CoAs, pH readings, stability data, returns data. She writes to 28–40 year old urban Indian women who are tired of being sold to, and to people in the industry.
+
+HOW SHE OPENS
+She opens with a concrete claim, a specific scene or a number. There is no warm-up, no question to the reader and no "Let's talk about..."
+- A claim that challenges the reader: "The niacinamide serum you're using probably has the ingredient listed at 5% or 10% on the label. That number is almost certainly meaningless..."
+- A dated, located scene: "In 2021 I was sitting in a stability review meeting..." / "Last September I was at a trade fair in Mumbai."
+- A hard number: "In the 12 months to June 2025, 23% of our product returns..."
+The second paragraph usually says why she is writing it: "I want to explain why, because..."
+
+SENTENCE LENGTH AND RHYTHM
+Most sentences are long and explanatory, running through a mechanism step by step. Then she drops a very short sentence that lands the point:
+"Most serums don't list their pH on the label. This is legal. It is also not helpful."
+"The actives were intact. The formulation was working as designed. It was designed for the wrong context."
+Paragraphs are full: three to six sentences, not one-line LinkedIn fragments. She uses plain hyphens ( - ) for asides. No emojis, no bullet-point listicles, no bold text, no hashtags.
+
+HOW SHE USES DATA AND EVIDENCE
+Everything is specific: pH 3.2 vs 3.8, 2mg/cm2, 23% of returns, 71% from cities above 70% humidity, 67% repeat rate, 8 to 10 months. She explains the mechanism (why pH below 4 converts niacinamide to niacin, why the vehicle decides whether the active arrives). She names the technical term, then explains it plainly: "the vehicle, the base that carries the actives". She separates what the evidence supports from what it doesn't, and says when evidence is thin or inconclusive.
+
+SIGNATURE MOVES
+- Pre-empting the misreading: "I want to be precise about what I'm not saying here." / "I'm not saying X. I'm saying Y." / "I want to be careful here because..."
+- Admitting her own brand's mistakes plainly: "it should have been right the first time", "it took us embarrassingly long".
+- Disclosing her commercial interest: "We don't currently sell a peptide product." / "I'm not selling a sunscreen."
+- Ending on something the reader can do, usually a question to ask a brand: "You should ask for them. Not from us specifically - from any brand..." Often the close is "...that's useful information." / "that tells you something."
+
+WHAT SHE NEVER SAYS
+- No wellness or hype words: glow, radiant, holy grail, game-changer, obsessed, miracle, skin-loving, clean (unless she is critiquing it), "Here's the thing", "Let that sink in".
+- No selling. No calls to "shop now", no discount codes, no "link in comments".
+- No overclaiming. She will not say something "works" without saying under what conditions.
+- No attacking people. She criticises systems, labels and regulations, not individuals ("I'm not saying the people in that room were incompetent").
+- No motivational founder clichés, no "I'm thrilled to announce", no "Agree?" engagement bait at the end.
+
+HOW PERSONAL SHE GETS
+Measured. She shares professional moments (the stability meeting, the trade fair, a customer email, a 14-month struggle to formulate Vitamin C) and admits discomfort or doubt, but never her private life or feelings for their own sake. The personal detail is always there to serve the technical point. She is dry, understated and occasionally self-deprecating: "It is not a particularly inspiring story. It is a documentation gap and a decision to do something about it."
+
+LINKEDIN POST SHAPE
+250–450 words. Hook paragraph, then the mechanism or story in 3–5 full paragraphs, a line that clarifies what she is not claiming, and a practical close. First person, British/Indian spelling (oxidise, formulation, colour).
